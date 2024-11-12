@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+*/venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
