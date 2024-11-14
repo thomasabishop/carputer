@@ -8,7 +8,7 @@ An onboard computer for my Volkswagen Fox created with Raspberry Pi.
 
 ![](./_ideas/designs/interface-rough-design.png)
 
-## Todo/ Find out
+## TODO
 
 - What is the equivalent of NPM scripts and `npm run start`, is there a
   convention in Python for running an app locally?
